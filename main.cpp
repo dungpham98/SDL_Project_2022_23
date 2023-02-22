@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-    cout << "Hello World" << end;
+    cout << "Hello SDL" << end;
     return 0;
 }
